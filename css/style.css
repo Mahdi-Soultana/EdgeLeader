@@ -58,6 +58,11 @@ a {
 .btn-dark {
     background: #333;
     color: #fff;
+    cursor: pointer;
+}
+.btn-dark:hover {
+   opacity: .85;
+    cursor: pointer;
 }
 
 .container {
